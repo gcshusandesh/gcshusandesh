@@ -1,7 +1,7 @@
-👋 Hi, I’m @shusandesh
+👋 Hi, I’m @gcshusandesh
 👀 I’m interested in Flutter.
 🌱 I’m currently learning Backend and Web Development.
-💞️ I’m looking to collaborate on interesting projects.
+💞️ I’m looking to collaborate on interesting Flutter projects.
 📫 How to reach me gcshusandesh@gmail.com
 
 <!---
